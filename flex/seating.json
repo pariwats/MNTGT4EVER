@@ -6,5 +6,19 @@
     "size": "full",
     "aspectRatio": "1:1",
     "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แผนผังที่นั่ง",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center"
+      }
+    ]
   }
 }
