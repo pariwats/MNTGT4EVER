@@ -1,0 +1,20 @@
+assets/
+
+├── details/
+│   ├── location.png
+│   ├── theme.png
+│   ├── schedule.png
+│   └── rsvp.png
+│
+├── menu/
+│   └── menu.png
+│
+├── seating/
+│   └── seating.png
+│
+├── activity/
+│   ├── activity-01.png
+│   ├── activity-02.png
+│
+└── gift/
+    └── qr.png
