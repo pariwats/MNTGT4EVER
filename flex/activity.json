@@ -9,6 +9,19 @@
         "size": "full",
         "aspectRatio": "1:1",
         "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กิจกรรมที่ 1",
+            "weight": "bold",
+            "size": "xl",
+            "align": "center"
+          }
+        ]
       }
     },
     {
@@ -19,6 +32,19 @@
         "size": "full",
         "aspectRatio": "1:1",
         "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กิจกรรมที่ 2",
+            "weight": "bold",
+            "size": "xl",
+            "align": "center"
+          }
+        ]
       }
     },
     {
@@ -29,6 +55,19 @@
         "size": "full",
         "aspectRatio": "1:1",
         "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กิจกรรมที่ 3",
+            "weight": "bold",
+            "size": "xl",
+            "align": "center"
+          }
+        ]
       }
     }
   ]
