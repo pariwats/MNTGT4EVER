@@ -1,0 +1,49 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/pariwats/MNTGT4EVER/main/assets/gift/qr.png",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "text",
+        "text": "💚 KBANK 💚",
+        "weight": "bold",
+        "size": "lg",
+        "align": "center",
+        "color": "#3E8E41"
+      },
+      {
+        "type": "text",
+        "text": "นางสาวสิรินภัส และ นายปริวรรต",
+        "wrap": true,
+        "align": "center",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "233-1-28865-1",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center"
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "color": "#7BA05B",
+        "action": {
+          "type": "message",
+          "label": "คัดลอกเลขบัญชี",
+          "text": "233-1-28865-1"
+        }
+      }
+    ]
+  }
+}
