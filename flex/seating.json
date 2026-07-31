@@ -1,0 +1,10 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/pariwats/MNTGT4EVER/main/assets/seating/seating.png",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+  }
+}
